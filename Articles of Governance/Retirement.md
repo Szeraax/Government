@@ -27,7 +27,7 @@ Captains do not have additional responsibilities in their battalions beyond that
 A new rank of Corporal will be made. These will be above Knight and below Sergeant in the hierarchy. Corporals are Knights who have either committed a notable deed in service of the Order or have dedicated years of service. Corporals are promoted from Knights at the discretion of their Commanders.
 
 ### Section IV - Rights and Responsibilities of Corporals
-Corporals do not receive any additional rights or responsibilities in promotion from Knight.
+Corporals are the next in line for responsibility if there are no captains or sergeants and the battalion commander is unavailable or unresponsive.
 
 ## Article III - Implementation
 
